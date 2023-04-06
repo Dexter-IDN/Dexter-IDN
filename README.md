@@ -9,6 +9,7 @@ I'm a Junior Developer and one of the junior high school students. I have a pass
 - HTML (Basic)
 - CSS (Basic)
 - PHP (Basic)
+- Flutter (Intermediate)
 
 <!---
 Dexter-IDN/Dexter-IDN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
